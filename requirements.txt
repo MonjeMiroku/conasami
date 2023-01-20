@@ -1,2 +1,2 @@
-dash==2.7.1
-gunicorn 
+Flask
+Gunicorn
