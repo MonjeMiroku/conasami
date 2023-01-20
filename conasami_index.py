@@ -1,23 +1,13 @@
 import dash
-import dash_auth
 import dash_bootstrap_components as dbc
-from dash import dcc, html, Output, Input, State, dash_table
 
-app = dash.Dash(__name__,
-                meta_tags=[
-                    {'name': 'viewport', 'content': 'width=device-width, initial-scale=1.0, maximum-scale=1.2, minimum-scale=0.5,'}],
-                external_stylesheets=[dbc.themes.QUARTZ])
+app = dash.Dash(
+    external_stylesheets=[dbc.themes.BOOTSTRAP]
+)
 
-server = app.server
-app.title = 'Title'
-app.layout = dbc.Container(fluid=True, children=[])
+app.layout = dbc.Alert(
+    "Hello, Bootstrap!", className="m-5"
+)
 
-@app.callback(
-    [Output('some_stuff', 'children'),],
-    [Input('stuff', 'value')])
-
-def display_something(value):
-    return value
-
-if __name__ == '__main__':
-    app.run_server(debug=False)
+if __name__ == "__main__":
+    app.run_server()
