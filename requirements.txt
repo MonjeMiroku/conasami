@@ -1,6 +1,6 @@
 chardet
-click==
-cython==
+click
+cython
 dash
 dash-core-components
 dash-html-components
