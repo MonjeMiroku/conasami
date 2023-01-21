@@ -2,3 +2,4 @@ Flask
 Gunicorn
 plotly
 dash
+dash-bootstrap-components
