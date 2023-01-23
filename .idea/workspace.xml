@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6da57b71-51e9-43c2-bb11-cce2e16885b6" name="Changes" comment="GIt 4 graphics">
-      <change afterPath="$PROJECT_DIR$/animales.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cobertura.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sbc_zona.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sm_hist.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/smg18_actual.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/usa.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/esperanza_de_vidaestado.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ind_dem_proyecciones.csv" beforeDir="false" />
+    <list default="true" id="6da57b71-51e9-43c2-bb11-cce2e16885b6" name="Changes" comment="Last graphs">
       <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -184,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674346108841</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Last graphs">
+      <created>1674441798496</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1674441798496</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -219,6 +212,7 @@
     <MESSAGE value="updated req" />
     <MESSAGE value="new plotly app" />
     <MESSAGE value="GIt 4 graphics" />
-    <option name="LAST_COMMIT_MESSAGE" value="GIt 4 graphics" />
+    <MESSAGE value="Last graphs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Last graphs" />
   </component>
 </project>
