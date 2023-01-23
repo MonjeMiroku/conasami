@@ -1,6 +1,7 @@
 Flask
 Gunicorn
-plotly
-dash
+plotly==5.12.0
+dash==2.7.1
 dash-bootstrap-components
-pandas
+pandas==1.5.3
+numpy==1.24.1
